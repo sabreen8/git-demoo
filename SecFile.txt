@@ -1,3 +1,5 @@
 Hiiiiiii
 
 I am also got edited
+
+Try in new way commit to master and then redo
